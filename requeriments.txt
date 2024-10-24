@@ -1,0 +1,8 @@
+pandas
+matplotlib
+plotly.express
+seaborn
+sklearn.model_selection
+sklearn.linear_model
+sklearn.metrics
+sklearn.ensemble

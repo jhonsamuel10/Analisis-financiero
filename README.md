@@ -17,8 +17,7 @@ El proyecto realiza un análisis exploratorio de datos (EDA), limpieza y prepara
 - **Análisis Exploratorio de Datos (EDA)** 📊 :
    - El análisis exploratorio se centra en comprender la estructura y distribución de los datos, identificar relaciones entre las variables y detectar posibles valores atípicos.
   - Distribución de Variables Financieras: Se visualizan las distribuciones de variables como Market cap, Revenue, Earnings, y los ratios financieros mediante histogramas.
-
-- Correlación de Variables: Se utiliza una matriz de correlación y mapas de calor para identificar relaciones entre métricas clave como Revenue, Earnings, P/E ratio, y otras.
+  - Correlación de Variables: Se utiliza una matriz de correlación y mapas de calor para identificar relaciones entre métricas clave como Revenue, Earnings, P/E ratio, y otras.
 
   
 - **Limpieza y Preparación de Datos** 🧹 :
